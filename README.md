@@ -12,3 +12,5 @@ scriptable:///import?url=https://raw.githubusercontent.com/S8Dev-Labs/-PhotoVacu
 
 iPhone only. Android Phase 2.
 Built from S8Dev-Labs/template
+
+Built with AI assistance, audited for zero network. Verify in Airplane Mode - no data leaves device.
